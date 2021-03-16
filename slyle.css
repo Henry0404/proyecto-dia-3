@@ -1,0 +1,21 @@
+/* .header .jumbotron{
+    padding-top: 8px;
+    margin-top: 30px;
+} */
+body{
+    background: black;
+    width: 900px;
+    height: 700px;
+}
+body .card{
+    margin-left: 400px;
+}
+
+/* body .row .form-group{
+    padding-right: 3px;
+}
+ */
+
+ body .row .booton-1{
+     float: right;
+ }
